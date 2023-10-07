@@ -35,8 +35,8 @@ To get started with the Movie Recommender System, follow these simple steps:
 
 Here are some screenshots of the Movie Recommender System as per input:
 
-   <img src='MovieRecommend/Screenshot (352).png' >
-  <img src='MovieRecommend/Screenshot (353).png' >
+   <img src='MovieRecommender/Screenshot (352).png' >
+  <img src='MovieRecommender/Screenshot (353).png' >
 
 ## Usage
 Run the Movie Recommender System:
